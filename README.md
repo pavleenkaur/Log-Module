@@ -1,7 +1,7 @@
 # Log-Module
 ### Objective
-Acts as a demo to the live code embedded in college's Examination website.
-Is used to create log files and record each online activity carried out by a user whlie logged in to their respective profiles.
+Acts as a demo to the live code embedded in college's Examination website.<br>
+Is used to create log files and record each online activity carried out by a user whlie logged in to their respective profiles.<br>
 The main aim is bring about an additional security feature in the website and analyse any fraudulent activities.
 
 ### Functionality
